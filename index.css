@@ -45,5 +45,16 @@ body {
 
 #header .content .subtitle {
 	font-size: 28px;
-	font-weight: 500;
+	font-weight: 400;
+}
+
+#header .content .button {
+	background-color: white;
+	color: #4954fd;
+	font-weight: 600;
+	font-size: 18px;
+	padding: 12px 24px;
+	border-radius: 32px;
+	margin-top: 32px;
+	cursor: pointer;
 }
